@@ -1,0 +1,5 @@
+---
+- hosts: annexes
+  roles:
+  - annex
+
